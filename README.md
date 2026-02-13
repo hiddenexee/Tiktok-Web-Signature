@@ -4,7 +4,7 @@
  
 # Features:
 
-- X-Gnarly (5.1.2, 5.1.3)
+- X-Gnarly (5.1.2, 5.1.3, 5.2.0)
 - X-Bogus
 - Mssdk-Info
 - strData
