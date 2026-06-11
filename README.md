@@ -9,6 +9,7 @@
 - Mssdk-Info
 - strData
 - eData
+- TikTok, TikTok ADS, TikTok Seller, etc.
  
 # Contact:
 
