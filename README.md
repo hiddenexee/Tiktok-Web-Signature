@@ -4,7 +4,7 @@
  
 # Features:
 
-- X-Gnarly (5.1.2, 5.1.3, 5.2.0, 5.2.1, 5.3.0, 5.3.1)
+- X-Gnarly (5.1.2, 5.1.3, 5.2.0, 5.2.1, 5.3.0, 5.3.1, 5.3.2)
 - X-Bogus
 - X-Dynosaur
 - Mssdk-Info
