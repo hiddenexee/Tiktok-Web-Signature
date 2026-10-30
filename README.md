@@ -12,7 +12,7 @@
 - eData
 - EcData
 - TicketGuard
-- TikTok, TikTok ADS, TikTok Seller, etc.
+- TikTok, TikTok ADS, TikTok Seller, Capcut etc.
  
 # Contact:
 
